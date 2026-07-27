@@ -1,0 +1,65 @@
+[
+  {
+    "track": "A",
+    "title": "How to Choose the Right AI Tool for Your Workflow",
+    "hook": "Most people waste hours trying random AI tools, but a simple framework can help you pick the right one for the job every time.",
+    "format": "how-to",
+    "partner_takeaway": "Readers learn a practical framework for selecting the best AI tool for specific tasks, improving their effectiveness and efficiency.",
+    "story_ref": "story-003",
+    "source_refs": [
+      "a014865b0dc8"
+    ],
+    "image_code": "chalk-sketch",
+    "reasoning": "This combines a timely external guide with the writer's own reusable pattern, delivering tactical advice that readers can apply immediately. AI tool selection is a frequent pain point, and the writer's workflow makes the post actionable and unique."
+  },
+  {
+    "track": "B",
+    "title": "Why Open Source AI Is Reshaping Industry Competition",
+    "hook": "This week, open-source AI models forced frontier labs to rethink pricing and infrastructure—competition is no longer just about scale.",
+    "format": "opinion",
+    "partner_takeaway": "Readers understand how rapid releases of open-source AI models are pressuring established labs and changing market dynamics.",
+    "story_ref": "story-002",
+    "source_refs": [
+      "e8a2489206f8"
+    ],
+    "image_code": "hero-line",
+    "reasoning": "Open-source AI is dominating industry headlines and shifting the competitive landscape. Pairing this trend with the writer's personal shift in perspective makes for a compelling, timely opinion piece that helps readers see beyond the hype."
+  },
+  {
+    "track": "A",
+    "title": "Real-World Prompting: Codex for Smarter QA and Social Media",
+    "hook": "A single prompt tweak in Codex turned my app QA and LinkedIn management workflows from tedious to nearly automated.",
+    "format": "case-study",
+    "partner_takeaway": "Readers learn how to leverage browser and computer integration with Codex for practical workflow automation, including an under-prompting trick.",
+    "story_ref": "story-001",
+    "source_refs": [
+      "24ac9a24fa99"
+    ],
+    "image_code": "scene-photo",
+    "reasoning": "This idea blends a concrete, high-relevance external example with the writer's own experience shipping to production, making the post both actionable and relatable. It answers the track's demand for 'what would they do differently after reading this?'"
+  },
+  {
+    "track": "C",
+    "title": "Shipping AI: What I Learned From My First Production Launch",
+    "hook": "Shipping my first AI-powered feature to production was nothing like the sandbox—here’s what surprised me most.",
+    "format": "case-study",
+    "partner_takeaway": "Readers learn key lessons and pitfalls from a real-world AI deployment, helping them avoid common mistakes when building their own projects.",
+    "story_ref": "story-001",
+    "source_refs": [],
+    "image_code": "scene-photo",
+    "reasoning": "This post delivers on the building-in-public track by sharing concrete lessons from the writer's own launch. Many readers are navigating their first AI deployments, so practical insights and mistakes are highly valuable right now."
+  },
+  {
+    "track": "B",
+    "title": "Industrial AI: The Next Tech Frontier",
+    "hook": "While everyone obsesses over software, industrial AI is quietly transforming mining, logistics, and manufacturing.",
+    "format": "short",
+    "partner_takeaway": "Readers learn that industrial AI and robotics are unlocking new economic opportunities through automation and cost reduction.",
+    "story_ref": null,
+    "source_refs": [
+      "56edd2c45810"
+    ],
+    "image_code": "iso-architecture",
+    "reasoning": "Spotlighting the rise of industrial AI gives readers a fresh trend read backed by a high-relevance external signal. The short format is ideal for a macro observation that opens eyes to a less-discussed but critical shift."
+  }
+]
