@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c52a426bd1da",
+    "title": "Vacation: Week of July 27",
+    "url": "https://stratechery.com/2026/vacation-week-of-july-27/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Stratechery is on vacation the week of July 27. There will be no Weekly Article or Updates. The next Update will be on Monday, August 3. Sharp Tech, and Greatest of All Talk&#160;&#160;will also return the week of August 3.&#160;Sharp China&#160;and&#160;Asianometry&#160;will continue to publish, and there will be one episode of Dithering next week. The [&#8230;]",
+    "published": "2026-07-27T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 1,
+    "score_reason": "This is a vacation announcement with no substantive content or insights for the audience.",
+    "topic_tags": [],
+    "partner_takeaway": "",
+    "partner_summary": "Stratechery announced a vacation week with no new articles or updates. This does not provide any educational or tactical content relevant to the audience. Readers should note the pause and plan to catch up when content resumes.",
+    "promo_only": true
+  },
+  {
+    "id": "47c8ad399515",
+    "title": "Steven Sinofsky: AI Doesn't Need New Rules Yet",
+    "url": "https://a16z.simplecast.com/episodes/steven-sinofsky-ai-doesnt-need-new-rules-yet-BuNOSzIn",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Steven Sinofsky joins Theo Jaffee and Sofia Puccini for a conversation on AI regulation, open-source models, and what history can teach us about technological revolutions. Drawing on decades of experience leading products at Microsoft, Sinofsky argues that governments are rushing to regulate AI before they fully understand the technology, risking innovation in the process. They discuss the \"precautionary principle,\" why open source has historically accelerated innovation, the role of regulation in emerging technologies, the AI competition between the U.S. and China, and why existing laws ma...",
+    "published": "2026-07-27T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/428f598f-a8c0-4b71-9400-e2c3f387ca94/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=428f598f-a8c0-4b71-9400-e2c3f387ca94&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "The discussion on AI regulation and innovation offers a practitioner perspective with insight and warning relevant to business and tech leaders.",
+    "topic_tags": [
+      "AI regulation",
+      "innovation",
+      "technology trends"
+    ],
+    "partner_takeaway": "Rushing AI regulation risks stifling innovation before the technology is fully understood, so leaders should balance caution with openness to experimentation.",
+    "partner_summary": "Steven Sinofsky discusses the current rush to regulate AI and the risks it poses to innovation. This matters to business and tech leaders who must navigate evolving AI policies while fostering growth. The audience should watch regulatory developments carefully and advocate for balanced approaches that do not hinder technological progress.",
+    "promo_only": false
+  },
+  {
+    "id": "5b90dacd842f",
+    "title": "Ben Horowitz: The Fight Over Open Source AI",
+    "url": "https://a16z.simplecast.com/episodes/ben-horowitz-the-fight-over-open-source-ai-RnXTUEqk",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Ben Horowitz joins Theo Jaffee and Sofia Puccini to discuss one of the biggest debates in AI today: the future of open-source models. They examine the growing push to restrict open models, why Ben believes open source is critical for security, innovation, and competition, and what happens if a handful of frontier labs come to dominate the AI ecosystem. They also discuss distillation, AI monopolies, China's role in open-source AI, robotics, manufacturing, the economics of frontier models, and why Ben believes the AI market is still in its earliest stages. The conversation closes with a look ...",
+    "published": "2026-07-26T13:15:04+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a06277c7-6617-4cbf-b37d-94f9516c033c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a06277c7-6617-4cbf-b37d-94f9516c033c&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The debate on open-source AI models includes strong opinions on security, innovation, and competition, offering tactical and strategic insights for AI practitioners and leaders.",
+    "topic_tags": [
+      "open source AI",
+      "AI strategy",
+      "competition"
+    ],
+    "partner_takeaway": "Open-source AI models are critical for maintaining security, fostering innovation, and preventing monopolies in the AI ecosystem.",
+    "partner_summary": "Ben Horowitz explores the fight over open-source AI and its implications for security and competition. This is crucial for AI developers and business leaders who must decide how to engage with open models. Readers should consider the benefits of open-source approaches and the risks of concentrated control in AI development.",
+    "promo_only": false
+  },
+  {
+    "id": "7981628d1469",
+    "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+    "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | Dianne Penn, Anthropic&#8217;s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
+    "published": "2026-07-26T12:32:06+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/207214207/5f341ddc033ea4f0aeb376bbced669eb.mp3",
+    "relevance_score": 7,
+    "score_reason": "Insights from Anthropic’s first technical PM provide a practitioner perspective on product management and AI development cycles, though somewhat niche.",
+    "topic_tags": [
+      "product management",
+      "AI development",
+      "innovation"
+    ],
+    "partner_takeaway": "Using evaluation-driven development loops and strategic pivots can drive AI product dominance and innovation.",
+    "partner_summary": "Dianne Penn, Anthropic’s first technical PM, shares how evaluation-driven development and strategic coding pivots contributed to Claude's success. This offers valuable lessons for product managers and AI teams aiming to innovate effectively. The audience should consider adopting similar iterative and data-driven approaches in their AI projects.",
+    "promo_only": false
+  },
+  {
+    "id": "10199f11fe0a",
+    "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 194",
+    "published": "2026-07-25T16:01:44+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The community wisdom format offers practical tips but is generic and lacks a unique angle or deep insight for the audience.",
+    "topic_tags": [
+      "client management",
+      "tools",
+      "AI automation"
+    ],
+    "partner_takeaway": "Practical tips on client engagement, tool pairing, and AI automation limits can improve project outcomes but require contextual adaptation.",
+    "partner_summary": "This community wisdom edition shares various tips on client engagement during pilots, combining tools, and understanding AI automation limits. While useful, the advice is general and needs personalization for specific contexts. Readers should extract relevant tactics and experiment to find what works best in their situations.",
+    "promo_only": false
+  }
+]
