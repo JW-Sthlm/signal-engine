@@ -1,0 +1,215 @@
+[
+  {
+    "id": "9cfc8cc176ec",
+    "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
+    "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The Big Pause is coming.",
+    "published": "2026-07-29T00:46:52+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The topic of AI development pacing and coordinated industry responses is highly relevant and offers insight into the strategic considerations around AI safety and innovation balance.",
+    "topic_tags": [
+      "AI strategy",
+      "industry trends",
+      "risk management"
+    ],
+    "partner_takeaway": "Leading AI companies are collectively advocating for a paced approach to AI development to manage risks while maintaining innovation momentum.",
+    "partner_summary": "Several major AI companies including OpenAI, Anthropic, and Meta have signed a letter calling for a deliberate pace in AI development to address risks like RSI. This matters to the audience as it highlights the industry's self-regulation efforts and the balancing act between rapid innovation and safety. Readers should watch how this collective stance influences AI policy and development strategies going forward.",
+    "promo_only": false
+  },
+  {
+    "id": "f1328dcd38c9",
+    "title": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
+    "url": "https://lexfridman.com/gary-gallagher/?utm_source=rss&utm_medium=rss&utm_campaign=gary-gallagher",
+    "source_name": "Lex Fridman Podcast",
+    "source_weight": 0.9,
+    "summary": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/gary-gallagher-transcript CONTACT LEX: Feedback &#8211; give feedback to Lex: https://lexfridman.com/survey AMA &#8211; submit questions, videos or call-in: https://lexfridman.com/ama Hiring &#8211; join our team: https://lexfridman.com/hiring Other &#8211; other ways to get in touch: https://lexfridman.com/contact E...",
+    "published": "2026-07-28T20:06:06+00:00",
+    "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_gary_gallagher.mp3",
+    "relevance_score": 2,
+    "score_reason": "Historical discussion on the American Civil War is outside the writer's editorial scope focused on AI, technology, and business insights.",
+    "topic_tags": [
+      "history"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a podcast episode featuring historian Gary Gallagher discussing the American Civil War and related topics. It does not align with the writer's focus on AI, technology, or business insights. The audience should skip this as it offers no relevant tactical or strategic value for their interests.",
+    "promo_only": false
+  },
+  {
+    "id": "74344e01bfd7",
+    "title": "Scientific computing in the age of agentic AI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "published": "2026-07-28T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "The use of AI coding agents in scientific computing is a cutting-edge topic with clear tactical and insight value for the audience interested in AI applications and innovation.",
+    "topic_tags": [
+      "AI applications",
+      "scientific computing",
+      "innovation"
+    ],
+    "partner_takeaway": "AI coding agents are transforming scientific computing by accelerating software development and discovery, especially in genomics.",
+    "partner_summary": "OpenAI published a field report showing how AI coding agents are modernizing scientific computing workflows, speeding up research and software creation. This is important for the audience as it demonstrates practical AI applications beyond traditional domains, highlighting new opportunities for innovation. Readers should explore how AI agents can be integrated into their own scientific or technical projects to boost productivity.",
+    "promo_only": false
+  },
+  {
+    "id": "63b888031488",
+    "title": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
+    "url": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Runway, Higgsfield, Waking Up, Brain.fm, Customer.io, Resend, Pangram, Mercury Personal, Supercut, Readwise, and Jam are joining Product Pass today, all included with Annual and Insider memberships",
+    "published": "2026-07-28T15:54:24+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "A product bundle announcement with no deeper analysis or tactical insight, making it mostly promotional and outside the core editorial focus.",
+    "topic_tags": [
+      "product roundup",
+      "tools"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Lenny's Newsletter announced an expansion of Product Pass with 11 new products available free for a year. While useful for product enthusiasts, this announcement lacks strategic or tactical depth for the audience focused on AI and business insights. Readers interested in tools should research these products individually but expect limited educational value from this announcement alone.",
+    "promo_only": true
+  },
+  {
+    "id": "43f9486b2937",
+    "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+    "url": "https://www.latent.space/p/chatgpt-work",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.",
+    "published": "2026-07-28T15:26:30+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/208716574/8e2c01f655d8148618e7479c56af1c3a.mp3",
+    "relevance_score": 9,
+    "score_reason": "An insider perspective on building ChatGPT Work with concrete examples and lessons offers high content potential and clear reader value.",
+    "topic_tags": [
+      "AI product development",
+      "AGI",
+      "business strategy"
+    ],
+    "partner_takeaway": "Building ChatGPT Work involves innovative features like memory and no-code tools to make AGI accessible and practical for business users.",
+    "partner_summary": "OpenAI's engineering lead shares how they developed ChatGPT Work, focusing on features such as Sites, Memory, and Subagents to enhance usability and accessibility. This is valuable for the audience as it provides a practitioner’s view on scaling AI products for enterprise adoption. Readers should consider these design and development strategies when building or adopting AI tools in their organizations.",
+    "promo_only": false
+  },
+  {
+    "id": "792466e1dcc5",
+    "title": "Fei-Fei Li on Spatial Intelligence and Robotics",
+    "url": "https://a16z.simplecast.com/episodes/fei-fei-li-on-spatial-intelligence-and-robotics-j8HvsWJf",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved problems: how to give machines a true understanding of the physical world. Martin Casado sits down with Fei-Fei Li, co-founder and CEO of World Labs, creator of ImageNet, and pioneer of spatial intelligence, alongside Yunzhu Li, co-founder of SceniX and assistant professor at Columbia University. They discuss why World Labs acquired SceniX, how simulation can unlock the next generation of robotics, and why training robots may require a fundamentally different approa...",
+    "published": "2026-07-28T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e2a3c643-334f-47f6-a6e0-d9124f6786a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e2a3c643-334f-47f6-a6e0-d9124f6786a3&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Discussion on spatial intelligence and robotics by a leading AI pioneer offers insight and trend reads relevant to AI and robotics practitioners.",
+    "topic_tags": [
+      "AI research",
+      "robotics",
+      "spatial intelligence"
+    ],
+    "partner_takeaway": "Advances in spatial intelligence are key to enabling machines to understand and interact with the physical world more effectively.",
+    "partner_summary": "Fei-Fei Li and SceniX co-founders discuss the challenges and progress in spatial intelligence and robotics, highlighting a recent acquisition to combine expertise. This matters to the audience as spatial intelligence is a frontier in AI that impacts robotics and real-world applications. Readers should follow developments in this area to anticipate new capabilities and opportunities in AI-powered robotics.",
+    "promo_only": false
+  },
+  {
+    "id": "c01d55a2b0a7",
+    "title": "[AINews] Much ado about Open Weights",
+    "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Everyone is writing a lot, but only Kimi K3 shipped today",
+    "published": "2026-07-28T06:20:13+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "A brief commentary on open weights in AI with limited detail and unclear takeaway reduces content potential despite topic relevance.",
+    "topic_tags": [
+      "AI models",
+      "open source"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The article notes that despite much discussion about open weights in AI, only one notable release (Kimi K3) occurred recently. While the topic is relevant, the lack of depth or actionable insight limits its value. The audience should monitor open weight releases but seek more detailed analysis elsewhere.",
+    "promo_only": false
+  },
+  {
+    "id": "d1620bcb7a37",
+    "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-07-27T15:03:21+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "A podcast episode roundup with no clear unique angle or tactical insight for the audience focused on AI and business applications.",
+    "topic_tags": [
+      "podcast",
+      "AI tools"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly podcast summary featuring AI tool reviews and discussions. It lacks a unique perspective or actionable advice tailored to the audience's interests. Readers may find it entertaining but not educational or strategically valuable.",
+    "promo_only": true
+  },
+  {
+    "id": "794c0533b098",
+    "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+    "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Maddie Reese built a thermal printer anyone can message, a working Twitter pager, and a personal API using Cursor, a Raspberry Pi, and the radical idea that fun beats practical",
+    "published": "2026-07-27T12:04:34+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/208362786/66781207d9aad96ef4324b4c59755f32.mp3",
+    "relevance_score": 7,
+    "score_reason": "A personal story of using AI and hardware to create fun projects offers tactical inspiration and a practitioner perspective.",
+    "topic_tags": [
+      "AI applications",
+      "hardware",
+      "maker culture"
+    ],
+    "partner_takeaway": "Combining AI tools like Cursor with accessible hardware like Raspberry Pi enables creative, low-code projects that make AI approachable and enjoyable.",
+    "partner_summary": "Maddie Reese demonstrates how a non-coding background can still lead to innovative AI hardware projects using Cursor and Raspberry Pi. This is relevant as it shows practical ways to democratize AI development and inspire creativity. Readers should consider experimenting with similar tools to lower barriers and foster innovation in their own work.",
+    "promo_only": false
+  },
+  {
+    "id": "c52a426bd1da",
+    "title": "Vacation: Week of July 27",
+    "url": "https://stratechery.com/2026/vacation-week-of-july-27/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Stratechery is on vacation the week of July 27. There will be no Weekly Article or Updates. The next Update will be on Monday, August 3. Sharp Tech, and Greatest of All Talk&#160;&#160;will also return the week of August 3.&#160;Sharp China&#160;and&#160;Asianometry&#160;will continue to publish, and there will be one episode of Dithering next week. The [&#8230;]",
+    "published": "2026-07-27T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 1,
+    "score_reason": "A vacation notice with no educational content or insight, fully out of scope for the writer's audience.",
+    "topic_tags": [
+      "announcement"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Stratechery announced a vacation week with no new articles or updates. This has no relevance or value for the audience interested in AI or business insights. Readers should wait for the next update after the vacation period.",
+    "promo_only": true
+  },
+  {
+    "id": "47c8ad399515",
+    "title": "Steven Sinofsky: AI Doesn't Need New Rules Yet",
+    "url": "https://a16z.simplecast.com/episodes/steven-sinofsky-ai-doesnt-need-new-rules-yet-BuNOSzIn",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Steven Sinofsky joins Theo Jaffee and Sofia Puccini for a conversation on AI regulation, open-source models, and what history can teach us about technological revolutions. Drawing on decades of experience leading products at Microsoft, Sinofsky argues that governments are rushing to regulate AI before they fully understand the technology, risking innovation in the process. They discuss the \"precautionary principle,\" why open source has historically accelerated innovation, the role of regulation in emerging technologies, the AI competition between the U.S. and China, and why existing laws ma...",
+    "published": "2026-07-27T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/428f598f-a8c0-4b71-9400-e2c3f387ca94/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=428f598f-a8c0-4b71-9400-e2c3f387ca94&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "A seasoned product leader's perspective on AI regulation offers insight and a cautionary viewpoint relevant to the audience.",
+    "topic_tags": [
+      "AI regulation",
+      "technology strategy",
+      "policy"
+    ],
+    "partner_takeaway": "Premature AI regulation risks stifling innovation; understanding technology deeply before regulating is crucial for balanced policy.",
+    "partner_summary": "Steven Sinofsky discusses the risks of rushing AI regulation without fully understanding the technology, drawing on his experience at Microsoft. This perspective is important for the audience as it highlights the tension between innovation and governance in AI. Readers should watch regulatory developments carefully and advocate for informed, balanced approaches.",
+    "promo_only": false
+  }
+]
