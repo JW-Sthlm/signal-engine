@@ -1,0 +1,238 @@
+[
+  {
+    "id": "c594608e4c07",
+    "title": "[AINews] AI is eating Finance; AIE NYC now open",
+    "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us cover how AI is permeating financial services as the next big vertical after coding.",
+    "published": "2026-07-29T23:32:12+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The topic of AI's impact on finance is relevant and the writer can provide insights on how AI is transforming this vertical beyond coding.",
+    "topic_tags": [
+      "AI",
+      "Finance",
+      "Trend"
+    ],
+    "partner_takeaway": "AI is rapidly transforming financial services, becoming the next major vertical for AI adoption after coding.",
+    "partner_summary": "AI is increasingly permeating financial services as a major new vertical beyond coding. This matters because finance professionals need to understand how AI can reshape workflows, risk management, and decision-making. The audience should watch for emerging AI applications in finance and consider how to leverage them strategically.",
+    "promo_only": false
+  },
+  {
+    "id": "108e7ad9a42a",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-07-29T16:02:10+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "While the launch of Lyria 3.5 in music generation is interesting, it lacks a clear tactical or business insight for the writer's audience without a personal angle.",
+    "topic_tags": [
+      "AI",
+      "Creative Tools"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google DeepMind announced Lyria 3.5 with improvements in musicality, lyrics, vocals, and creative control. This is relevant to those interested in AI-generated music but may be too technical or product-focused for a business audience. The audience should monitor advances in generative AI for creative industries but needs a practitioner perspective to extract value.",
+    "promo_only": true
+  },
+  {
+    "id": "1c2e517655ab",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "published": "2026-07-29T15:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The explanation of how two API settings tripled GPT-5.6's benchmark scores offers a tactical insight that can be valuable if contextualized for AI practitioners.",
+    "topic_tags": [
+      "AI",
+      "Tactical Tips",
+      "Performance"
+    ],
+    "partner_takeaway": "Adjusting two specific API settings can significantly boost AI model performance and efficiency on complex benchmarks.",
+    "partner_summary": "OpenAI improved GPT-5.6's performance on the ARC-AGI-3 benchmark by enabling two API settings that retain reasoning and enable compaction. This matters because it shows how configuration tweaks can yield major efficiency and accuracy gains in AI applications. Practitioners should experiment with these settings to optimize their AI deployments.",
+    "promo_only": false
+  },
+  {
+    "id": "f52f1d258a2f",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "published": "2026-07-29T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Providing free access to advanced AI models for academic researchers offers a clear trend read and opportunity for accelerating scientific discovery.",
+    "topic_tags": [
+      "AI",
+      "Research",
+      "Trend"
+    ],
+    "partner_takeaway": "Free access to advanced AI models is accelerating scientific research and collaboration across academia.",
+    "partner_summary": "OpenAI is granting 100,000 academic researchers free access to its most advanced AI models to speed up scientific discovery and collaboration. This matters because AI is becoming a critical tool in research workflows, enabling faster insights and innovation. Researchers and institutions should explore integrating these AI tools to enhance their work.",
+    "promo_only": false
+  },
+  {
+    "id": "59a8a8401b39",
+    "title": "AI Micro Dramas, Generative Media, and the Future of Creativity",
+    "url": "https://a16z.simplecast.com/episodes/ai-micro-dramas-generative-media-and-the-future-of-creativity-ZbK1xyzO",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Justine Moore, partner at Andreessen Horowitz, joins New Economies to explore the rapid evolution of generative media and why AI-native content is reaching an inflection point. They discuss the rise of AI micro-dramas, how creators are building entirely new forms of entertainment, and why the biggest opportunities may lie not in replacing Hollywood—but in expanding who gets to create. They also cover the future of creator tools, AI agents for individuals, generative video, AI \"slop,\" the economics of AI-native studios, and where founders should be building next as consumer AI enters a new p...",
+    "published": "2026-07-29T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7fd0c85e-6602-4a74-a5a4-1ae04e7bdcd8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7fd0c85e-6602-4a74-a5a4-1ae04e7bdcd8&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "The discussion on AI micro-dramas and generative media offers a fresh perspective on new creative formats and democratization of content creation.",
+    "topic_tags": [
+      "AI",
+      "Creativity",
+      "Trend"
+    ],
+    "partner_takeaway": "AI-native content like micro-dramas is expanding creative opportunities beyond traditional Hollywood, enabling new forms of entertainment and creators.",
+    "partner_summary": "Generative media is evolving rapidly with AI micro-dramas creating new entertainment formats that broaden who can create content. This matters because it shifts power from traditional studios to a wider creator base, changing the media landscape. Creators and media professionals should explore AI tools to innovate storytelling and reach new audiences.",
+    "promo_only": false
+  },
+  {
+    "id": "9cfc8cc176ec",
+    "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
+    "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The Big Pause is coming.",
+    "published": "2026-07-29T00:46:52+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The coordinated call by major AI players to pace AI development combined with a cyberattack report offers a cautionary trend read and warning.",
+    "topic_tags": [
+      "AI",
+      "Ethics",
+      "Security"
+    ],
+    "partner_takeaway": "Leading AI companies are urging a slowdown in AI development amid rising risks, while cyberattacks highlight security vulnerabilities in AI ecosystems.",
+    "partner_summary": "OpenAI, Anthropic, and others co-signed a letter calling to pace AI development due to risks, coinciding with a reported machine-speed cyberattack on HuggingFace. This matters because it signals growing concerns about AI safety and security in the industry. The audience should monitor regulatory and security developments to manage AI risks effectively.",
+    "promo_only": false
+  },
+  {
+    "id": "b5fa37a6db01",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "published": "2026-07-29T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The explanation of GPT-5.6's efficiency improvements offers a useful insight into balancing AI intelligence and cost-effectiveness.",
+    "topic_tags": [
+      "AI",
+      "Efficiency",
+      "Performance"
+    ],
+    "partner_takeaway": "GPT-5.6 advances AI efficiency by optimizing models, inference, and workflows to deliver better intelligence per dollar spent.",
+    "partner_summary": "OpenAI's GPT-5.6 enhances AI efficiency across multiple dimensions, improving cost-effectiveness and intelligence delivery. This matters because organizations need to maximize AI value while controlling expenses. AI practitioners should consider these efficiency strategies when deploying large models.",
+    "promo_only": false
+  },
+  {
+    "id": "f1328dcd38c9",
+    "title": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
+    "url": "https://lexfridman.com/gary-gallagher/?utm_source=rss&utm_medium=rss&utm_campaign=gary-gallagher",
+    "source_name": "Lex Fridman Podcast",
+    "source_weight": 0.9,
+    "summary": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/gary-gallagher-transcript CONTACT LEX: Feedback &#8211; give feedback to Lex: https://lexfridman.com/survey AMA &#8211; submit questions, videos or call-in: https://lexfridman.com/ama Hiring &#8211; join our team: https://lexfridman.com/hiring Other &#8211; other ways to get in touch: https://lexfridman.com/contact E...",
+    "published": "2026-07-28T20:06:06+00:00",
+    "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_gary_gallagher.mp3",
+    "relevance_score": 3,
+    "score_reason": "A historical podcast on the American Civil War is outside the writer's AI and tech-focused editorial scope.",
+    "topic_tags": [
+      "History"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Gary Gallagher discusses topics related to the American Civil War, slavery, and key historical figures. This is outside the scope of AI, technology, or business insights relevant to the writer's audience. The audience should seek content aligned with their professional interests.",
+    "promo_only": false
+  },
+  {
+    "id": "74344e01bfd7",
+    "title": "Scientific computing in the age of agentic AI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "published": "2026-07-28T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The report on using AI coding agents to accelerate scientific computing offers a strong practitioner insight and trend read.",
+    "topic_tags": [
+      "AI",
+      "Scientific Computing",
+      "Tools"
+    ],
+    "partner_takeaway": "AI coding agents are modernizing scientific computing workflows, speeding up software development and discovery in fields like genomics.",
+    "partner_summary": "Scientists are leveraging AI coding agents to transform scientific computing, enabling faster development and breakthroughs in genomics and beyond. This matters because it shows AI's practical impact on accelerating research and innovation. Researchers and developers should explore integrating AI agents to enhance productivity.",
+    "promo_only": false
+  },
+  {
+    "id": "63b888031488",
+    "title": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
+    "url": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Runway, Higgsfield, Waking Up, Brain.fm, Customer.io, Resend, Pangram, Mercury Personal, Supercut, Readwise, and Jam are joining Product Pass today, all included with Annual and Insider memberships",
+    "published": "2026-07-28T15:54:24+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "A product pass expansion announcement is mostly promotional without a clear educational or tactical angle for the audience.",
+    "topic_tags": [
+      "Productivity Tools",
+      "Promotion"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Lenny's Newsletter announced an expansion of Product Pass with 11 new products available free for a year. While useful for some, this is primarily a promotional update without deeper insights or tactics. The audience should evaluate these tools individually for relevance.",
+    "promo_only": true
+  },
+  {
+    "id": "43f9486b2937",
+    "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+    "url": "https://www.latent.space/p/chatgpt-work",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.",
+    "published": "2026-07-28T15:26:30+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/208716574/8e2c01f655d8148618e7479c56af1c3a.mp3",
+    "relevance_score": 8,
+    "score_reason": "Insights from OpenAI's product engineering lead on building ChatGPT Work provide valuable practitioner perspective and tactical lessons.",
+    "topic_tags": [
+      "AI",
+      "Product Development",
+      "Business"
+    ],
+    "partner_takeaway": "Building ChatGPT Work involves integrating features like memory, subagents, and no-code tools to make AGI accessible and practical for business users.",
+    "partner_summary": "OpenAI's engineering lead shares how ChatGPT Work is designed to democratize AGI through features like Sites, OpenClaw, Memory, and no-code capabilities. This matters because it reveals practical strategies for productizing advanced AI for broad adoption. Product teams should consider these approaches when developing AI-driven business tools.",
+    "promo_only": false
+  },
+  {
+    "id": "792466e1dcc5",
+    "title": "Fei-Fei Li on Spatial Intelligence and Robotics",
+    "url": "https://a16z.simplecast.com/episodes/fei-fei-li-on-spatial-intelligence-and-robotics-j8HvsWJf",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved problems: how to give machines a true understanding of the physical world. Martin Casado sits down with Fei-Fei Li, co-founder and CEO of World Labs, creator of ImageNet, and pioneer of spatial intelligence, alongside Yunzhu Li, co-founder of SceniX and assistant professor at Columbia University. They discuss why World Labs acquired SceniX, how simulation can unlock the next generation of robotics, and why training robots may require a fundamentally different approa...",
+    "published": "2026-07-28T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e2a3c643-334f-47f6-a6e0-d9124f6786a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e2a3c643-334f-47f6-a6e0-d9124f6786a3&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The discussion on spatial intelligence and robotics by Fei-Fei Li offers a valuable insight into a key AI challenge with business and tech implications.",
+    "topic_tags": [
+      "AI",
+      "Robotics",
+      "Spatial Intelligence"
+    ],
+    "partner_takeaway": "Advances in spatial intelligence are critical for enabling robots and AI systems to understand and interact with the physical world effectively.",
+    "partner_summary": "Fei-Fei Li and collaborators discuss efforts to solve spatial intelligence, a major AI challenge for robotics and real-world applications. This matters because spatial understanding is foundational for deploying AI in physical environments. The audience should watch developments in this area to anticipate new AI capabilities and use cases.",
+    "promo_only": false
+  }
+]
